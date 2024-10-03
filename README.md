@@ -12,7 +12,7 @@ Increasing Difficulty: The game becomes more challenging as the snake grows.
 
 Installation & Running the Game
 1. Clone the repository:
-git clone https://github.com/username/snake-game-java.git
+git clone https://github.com/bhavani2003/snake-game-java.git
 2. Compile the code: Make sure you have Java installed. Navigate to the project directory and compile the code:
 javac SnakeGame.java
 3. Run the game: After compiling, you can run the game with:
