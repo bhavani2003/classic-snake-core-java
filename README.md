@@ -14,9 +14,9 @@ Installation & Running the Game
 1. Clone the repository:
 git clone https://github.com/bhavani2003/classic-snake-core-java.git
 2. Compile the code: Make sure you have Java installed. Navigate to the project directory and compile the code:
-javac SnakeGame.java
+javac snakegame.java
 3. Run the game: After compiling, you can run the game with:
-java SnakeGame
+java snakegame
 
 How to Play
 Arrow keys: Control the direction of the snake (up, down, left, right).
